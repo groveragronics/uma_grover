@@ -1,0 +1,1 @@
+controller_joint_names: ['wbl_joint', 'lidar_joint', 'wfr_joint', 'wfl_joint', 'wbr_joint', 'wbl_joint']
